@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "12326146143",
+    "firebase_url": "https://bangdims-movie.firebaseio.com",
+    "project_id": "bangdims-movie",
+    "storage_bucket": "bangdims-movie.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12326146143:android:b23798fbb7d99d22bd0bea",
+        "android_client_info": {
+          "package_name": "com.bagicode.bwamov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12326146143-0e9o6vhnpurhl19mnlrk6mbo8845ucj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHaFINIt1J3aFMtUrilhLdRZicRuUKsGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12326146143-0e9o6vhnpurhl19mnlrk6mbo8845ucj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
